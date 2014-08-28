@@ -8,10 +8,10 @@ Detta kan göras på olika sätt och ser olika ut på olika plattformar. Install
 ### Linux (ubuntu)
 ```apt-get install nodejs```
 
-Om apt inte hittar node js kan [denna sida](https://github.com/joyent/node/wiki/installing-node.js-via-package-manager) vara till hjälp.
+Om ```apt``` inte hittar paketet nodejs kan [denna sida](https://github.com/joyent/node/wiki/installing-node.js-via-package-manager) vara till hjälp.
 
 ### Mac OS X
-För Mac rekommenderas följande installation http://thechangelog.com/install-node-js-with-homebrew-on-os-x/
+För Mac rekommenderas följande installation http://thechangelog.com/install-node-js-with-homebrew-on-os-x/ som baseras på [Homebrew](http://brew.sh).
 
 ## Verifiera att ```node.js``` är korrekt uppsatt
 ```bash
